@@ -23,4 +23,4 @@ The goal of this project was to modify the provided started code to:
 
 ### Link to Application
 
-[Application Link - Open in New Tab](https://chasediet.github.io/02-Challenge-Horiseon/){:target="\_blank"}
+<a href="https://chasediet.github.io/02-Challenge-Horiseon/" target="_blank">Application Link - Open in New Tab</a>
