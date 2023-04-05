@@ -22,3 +22,5 @@ The goal of this project was to modify the provided started code to:
 ![Content area and Footer Section](./Assets/Screenshot2.png)
 
 ### Link to Application
+
+[Application Link - Open in New Tab](https://chasediet.github.io/02-Challenge-Horiseon/){:target="\_blank"}
